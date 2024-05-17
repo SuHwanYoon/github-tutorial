@@ -2,3 +2,4 @@ retertetet
 coffeeGithub
 aaaaaaaaaaaa
 generate pull request conflicts in new-heading branch
+generate pull request conflicts in master branch
